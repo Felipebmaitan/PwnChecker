@@ -5,4 +5,4 @@ PwnChecker is a simple script written in Python that uses [HaveIBeenPwned API](h
 #### TODO:
 
 - Write info to the .txt of the bulk tester.
-- Document the bluk tester section
+- ~~ Document the bluk tester section ~~
